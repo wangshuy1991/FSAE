@@ -1,0 +1,1 @@
+run Coil_auto.m in folder FSAE
